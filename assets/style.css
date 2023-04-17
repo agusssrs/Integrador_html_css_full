@@ -493,6 +493,9 @@ main{
     align-items: center;
     height: 25px;
     font-size: 20px;
+    background:#16222A;
+    border: 0ch;
+    border-bottom: 3px solid aqua;    
 }
 
 #password{
@@ -500,6 +503,9 @@ main{
     align-items: center;
     height: 25px;
     font-size: 20px;
+    background:#16222A;
+    border: 0ch;
+    border-bottom: 3px solid aqua;  
 }
 
 .registrarse{
